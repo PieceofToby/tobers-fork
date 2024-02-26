@@ -5,8 +5,12 @@ html {
     font-size: medium;
   }
   
+  body {
+    background-color: aliceblue;
+  }
+
   h2 {
-    color:rgb(0, 11, 163);
+    color:rgb(6, 22, 248);
     text-align:center;
   }
 
@@ -25,6 +29,9 @@ html {
     width: auto;
   }
 
-a {
+nav {
     text-align: center;
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
 }
