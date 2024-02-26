@@ -1,10 +1,30 @@
 /* your styles will go here!! */
 
 html {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: medium;
-}
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+  }
+  
+  h2 {
+    color:rgb(0, 11, 163);
+    text-align:center;
+  }
 
-h2 {
-  color:cornflowerblue;
+  p {
+    color: rgb(68, 123, 206);
+  }
+
+  img {
+    align-content: center;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+
+a {
+    text-align: center;
 }
