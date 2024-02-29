@@ -14,13 +14,14 @@ html {
     text-align:center;
     font-weight: 200;
     padding: 15px;
-    letter-spacing: 0.1em;
   }
 
   p {
     color: rgb(68, 123, 206);
     word-spacing: 0.10em;
     line-height: 1.4;
+    text-align: center;
+    padding: 35px;
   }
 
   img {
