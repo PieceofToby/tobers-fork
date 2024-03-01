@@ -10,6 +10,13 @@ html {
     margin: 0;
   }
 
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+
   h2 {
     color:rgb(6, 22, 248);
     text-align:center;
@@ -21,7 +28,7 @@ html {
     color: rgb(32, 81, 155);
     word-spacing: 0.10em;
     line-height: 1.4;
-    text-align: center;
+    max-width: 732px;
 
   }
 
@@ -38,11 +45,7 @@ html {
     width: 100%;
   }
 
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
+
 
 nav {
     text-align: center;
