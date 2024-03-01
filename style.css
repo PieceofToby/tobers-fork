@@ -21,7 +21,7 @@ html {
     word-spacing: 0.10em;
     line-height: 1.4;
     text-align: center;
-    padding: 35px;
+    margin: 20px;
   }
 
   img {
@@ -41,4 +41,8 @@ nav {
     background-color: aliceblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: darkblue;
+}
+
+a {
+  text-align: center;
 }
