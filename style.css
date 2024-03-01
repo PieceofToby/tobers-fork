@@ -44,10 +44,9 @@ nav {
 }
 
 .footer {
-  display: grid;
+  display: flex;
   align-items: center;
-  grid-template-columns: 1fr 1fr 1fr;
-  column-gap: 4px;
+  gap: 4px;
 }
 
 .bottomimage {
